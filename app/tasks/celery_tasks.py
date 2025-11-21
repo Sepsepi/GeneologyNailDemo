@@ -22,7 +22,7 @@ celery_app.conf.task_routes = {
 }
 
 
-@celery_app.task(name="process_records")
+@celery_app.task(name="process_records_task")
 def process_records_task(job_id: int, source_ids: List[int], source_type: str):
     """
     Background task to process ingested records:
