@@ -17,9 +17,10 @@ celery_app = Celery(
     backend=settings.celery_result_backend
 )
 
-celery_app.conf.task_routes = {
-    "app.tasks.celery_tasks.*": {"queue": "genealogy"}
-}
+# Use default queue (celery)
+# celery_app.conf.task_routes = {
+#     "app.tasks.celery_tasks.*": {"queue": "genealogy"}
+# }
 
 
 @celery_app.task(name="process_records_task")
