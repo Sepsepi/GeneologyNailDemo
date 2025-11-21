@@ -219,13 +219,14 @@ async def monitor_jobs(job_ids: list, db: Session):
             job = db.query(ProcessingJob).filter(ProcessingJob.id == job_id).first()
             if job and job.status in ["completed", "failed"]:
                 completed_jobs.add(job_id)
+                file_name = job.result_data.get('file_name', 'unknown') if job.result_data else 'unknown'
                 await manager.broadcast({
                     "job_id": job_id,
-                    "file": job.file_name,
+                    "file": file_name,
                     "status": job.status,
                     "progress": 100
                 })
-                logger.info(f"Job {job_id} ({job.file_name}) {job.status}")
+                logger.info(f"Job {job_id} ({file_name}) {job.status}")
 
         if len(completed_jobs) >= total_jobs:
             # Get final lead count
