@@ -1,0 +1,255 @@
+{
+  "records": [
+    {
+      "record_id": "OBIT-2012-IL-8472",
+      "newspaper": "Chicago Tribune",
+      "publication_date": "2012-08-15",
+      "deceased_name": "Francis Henry Miller",
+      "also_known_as": "Frank Miller, Franz Mueller",
+      "birth_date": "1925-03-15",
+      "birth_place": "Munich, Germany",
+      "death_date": "2012-08-12",
+      "death_place": "Chicago, Illinois",
+      "age_at_death": 87,
+      "last_address": "3847 N Milwaukee Ave, Chicago, IL",
+      "occupation": "Retired Machinist",
+      "survived_by": [
+        {
+          "name": "Robert Franz Miller",
+          "relationship": "Son",
+          "location": "Chicago, IL"
+        },
+        {
+          "name": "Lisa Ann Peterson",
+          "maiden_name": "Miller",
+          "relationship": "Daughter",
+          "location": "Evanston, IL"
+        }
+      ],
+      "predeceased_by": [
+        {
+          "name": "Anna Marie Miller",
+          "maiden_name": "Kowalski",
+          "relationship": "Wife",
+          "death_year": 2005
+        }
+      ]
+    },
+    {
+      "record_id": "OBIT-2015-IL-3924",
+      "newspaper": "Chicago Sun-Times",
+      "publication_date": "2015-03-22",
+      "deceased_name": "Klaus Wilhelm Schmidt",
+      "birth_date": "1930-06-22",
+      "birth_place": "Berlin, Germany",
+      "death_date": "2015-03-19",
+      "death_place": "Chicago, Illinois",
+      "age_at_death": 84,
+      "last_address": "1523 W Division St, Chicago, IL",
+      "occupation": "Retired Baker",
+      "survived_by": [
+        {
+          "name": "Martha Elisabeth Schmidt",
+          "relationship": "Wife",
+          "location": "Chicago, IL"
+        },
+        {
+          "name": "Thomas Karl Schmidt",
+          "relationship": "Son",
+          "location": "Oak Park, IL"
+        },
+        {
+          "name": "Jennifer Marie Anderson",
+          "maiden_name": "Schmidt",
+          "relationship": "Daughter",
+          "location": "Milwaukee, WI"
+        }
+      ]
+    },
+    {
+      "record_id": "OBIT-2018-NY-5637",
+      "newspaper": "New York Times",
+      "publication_date": "2018-11-08",
+      "deceased_name": "Heinrich Josef Becker",
+      "also_known_as": "Henry Becker",
+      "birth_date": "1928-02-14",
+      "birth_place": "Frankfurt am Main, Germany",
+      "death_date": "2018-11-05",
+      "death_place": "New York, New York",
+      "age_at_death": 90,
+      "last_address": "428 E 82nd St, New York, NY",
+      "occupation": "Master Carpenter",
+      "survived_by": [
+        {
+          "name": "David Heinrich Becker",
+          "relationship": "Son",
+          "location": "Brooklyn, NY"
+        },
+        {
+          "name": "Susan Marie Johnson",
+          "maiden_name": "Becker",
+          "relationship": "Daughter",
+          "location": "Queens, NY"
+        }
+      ],
+      "predeceased_by": [
+        {
+          "name": "Margaret Ann Becker",
+          "relationship": "Wife",
+          "death_year": 2012
+        }
+      ]
+    },
+    {
+      "record_id": "OBIT-2020-CA-7219",
+      "newspaper": "Los Angeles Times",
+      "publication_date": "2020-05-14",
+      "deceased_name": "Wolfgang Karl Fischer",
+      "birth_date": "1933-08-19",
+      "birth_place": "Dresden, Saxony, Germany",
+      "death_date": "2020-05-10",
+      "death_place": "Los Angeles, California",
+      "age_at_death": 86,
+      "last_address": "1842 Vine St, Los Angeles, CA",
+      "occupation": "Retired Electrical Engineer",
+      "survived_by": [
+        {
+          "name": "Patricia Ann Fischer",
+          "relationship": "Wife",
+          "location": "Los Angeles, CA"
+        },
+        {
+          "name": "Michael Wolfgang Fischer",
+          "relationship": "Son",
+          "location": "San Diego, CA"
+        }
+      ]
+    },
+    {
+      "record_id": "OBIT-2010-PA-4851",
+      "newspaper": "Philadelphia Inquirer",
+      "publication_date": "2010-09-20",
+      "deceased_name": "Greta Maria Hoffmann",
+      "maiden_name": "Weber",
+      "birth_date": "1927-04-30",
+      "birth_place": "Stuttgart, Baden-Württemberg, Germany",
+      "death_date": "2010-09-17",
+      "death_place": "Philadelphia, Pennsylvania",
+      "age_at_death": 83,
+      "last_address": "2341 Chestnut St, Philadelphia, PA",
+      "occupation": "Retired Registered Nurse",
+      "survived_by": [
+        {
+          "name": "Andrew Kurt Hoffmann",
+          "relationship": "Grandson",
+          "location": "Philadelphia, PA"
+        }
+      ],
+      "predeceased_by": [
+        {
+          "name": "Kurt Wilhelm Hoffmann",
+          "relationship": "Son",
+          "death_year": 2008
+        }
+      ]
+    },
+    {
+      "record_id": "OBIT-2016-IL-9283",
+      "newspaper": "Chicago Tribune",
+      "publication_date": "2016-12-05",
+      "deceased_name": "Otto Hermann Braun",
+      "birth_date": "1929-11-12",
+      "birth_place": "Cologne, North Rhine-Westphalia, Germany",
+      "death_date": "2016-12-02",
+      "death_place": "Chicago, Illinois",
+      "age_at_death": 87,
+      "last_address": "4523 N Ashland Ave, Chicago, IL",
+      "occupation": "Retired Butcher",
+      "survived_by": [
+        {
+          "name": "Richard Otto Braun",
+          "relationship": "Son",
+          "location": "Schaumburg, IL"
+        },
+        {
+          "name": "Linda Marie Schultz",
+          "maiden_name": "Braun",
+          "relationship": "Daughter",
+          "location": "Chicago, IL"
+        }
+      ],
+      "predeceased_by": [
+        {
+          "name": "Helga Braun",
+          "relationship": "Wife",
+          "death_year": 2010
+        }
+      ]
+    },
+    {
+      "record_id": "OBIT-2019-IL-6374",
+      "newspaper": "Chicago Sun-Times",
+      "publication_date": "2019-07-18",
+      "deceased_name": "Helmut Friedrich Wagner",
+      "also_known_as": "Herman Wagner",
+      "birth_date": "1926-09-03",
+      "birth_place": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "death_date": "2019-07-15",
+      "death_place": "Chicago, Illinois",
+      "age_at_death": 92,
+      "last_address": "2918 N Lincoln Ave, Chicago, IL",
+      "occupation": "Retired Tool and Die Maker",
+      "survived_by": [
+        {
+          "name": "Peter Helmut Wagner",
+          "relationship": "Son",
+          "location": "Naperville, IL"
+        },
+        {
+          "name": "Karen Elizabeth Morrison",
+          "maiden_name": "Wagner",
+          "relationship": "Daughter",
+          "location": "Denver, CO"
+        }
+      ],
+      "predeceased_by": [
+        {
+          "name": "Erika Wagner",
+          "relationship": "Wife",
+          "death_year": 2015
+        }
+      ]
+    },
+    {
+      "record_id": "OBIT-2021-MA-8192",
+      "newspaper": "Boston Globe",
+      "publication_date": "2021-02-10",
+      "deceased_name": "Gerhard Ernst Zimmermann",
+      "birth_date": "1931-12-20",
+      "birth_place": "Leipzig, Saxony, Germany",
+      "death_date": "2021-02-07",
+      "death_place": "Boston, Massachusetts",
+      "age_at_death": 89,
+      "last_address": "147 Commonwealth Ave, Boston, MA",
+      "occupation": "Retired Research Chemist",
+      "survived_by": [
+        {
+          "name": "Elisabeth Anna Zimmermann",
+          "relationship": "Wife",
+          "location": "Boston, MA"
+        },
+        {
+          "name": "William Gerhard Zimmermann",
+          "relationship": "Son",
+          "location": "Cambridge, MA"
+        },
+        {
+          "name": "Christine Elisabeth Harris",
+          "maiden_name": "Zimmermann",
+          "relationship": "Daughter",
+          "location": "Portland, ME"
+        }
+      ]
+    }
+  ]
+}

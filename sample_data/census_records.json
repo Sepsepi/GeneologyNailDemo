@@ -1,0 +1,288 @@
+{
+  "records": [
+    {
+      "record_id": "CENSUS-1960-IL-4728",
+      "census_year": 1960,
+      "state": "Illinois",
+      "county": "Cook",
+      "city": "Chicago",
+      "enumeration_district": "16-847",
+      "household_head": "Frank H. Miller",
+      "age": 35,
+      "sex": "M",
+      "birth_year": 1925,
+      "birthplace": "Germany",
+      "address": "742 N Clark St",
+      "occupation": "Machine Operator",
+      "household_members": [
+        {
+          "name": "Robert F. Miller",
+          "relationship": "Son",
+          "age": 6,
+          "birth_year": 1954,
+          "birthplace": "Illinois"
+        },
+        {
+          "name": "Anna M. Miller",
+          "relationship": "Wife",
+          "age": 32,
+          "birth_year": 1928,
+          "birthplace": "Illinois"
+        }
+      ]
+    },
+    {
+      "record_id": "CENSUS-1970-IL-8392",
+      "census_year": 1970,
+      "state": "Illinois",
+      "county": "Cook",
+      "city": "Chicago",
+      "enumeration_district": "16-1024",
+      "household_head": "Francis Henry Miller",
+      "also_known_as": "Frank Miller",
+      "age": 45,
+      "sex": "M",
+      "birth_year": 1925,
+      "birthplace": "Germany",
+      "address": "3847 N Milwaukee Ave",
+      "occupation": "Machinist",
+      "household_members": [
+        {
+          "name": "Robert Franz Miller",
+          "relationship": "Son",
+          "age": 16,
+          "birth_year": 1954,
+          "birthplace": "Illinois"
+        },
+        {
+          "name": "Anna Marie Miller",
+          "relationship": "Wife",
+          "age": 42,
+          "birth_year": 1928,
+          "birthplace": "Illinois"
+        },
+        {
+          "name": "Lisa Ann Miller",
+          "relationship": "Daughter",
+          "age": 12,
+          "birth_year": 1958,
+          "birthplace": "Illinois"
+        }
+      ]
+    },
+    {
+      "record_id": "CENSUS-1960-IL-5841",
+      "census_year": 1960,
+      "state": "Illinois",
+      "county": "Cook",
+      "city": "Chicago",
+      "enumeration_district": "16-523",
+      "household_head": "Klaus W. Schmidt",
+      "age": 30,
+      "sex": "M",
+      "birth_year": 1930,
+      "birthplace": "Germany",
+      "address": "1523 W Division St",
+      "occupation": "Baker",
+      "household_members": [
+        {
+          "name": "Martha Schmidt",
+          "relationship": "Wife",
+          "age": 27,
+          "birth_year": 1932,
+          "birthplace": "Germany"
+        },
+        {
+          "name": "Thomas K. Schmidt",
+          "relationship": "Son",
+          "age": 3,
+          "birth_year": 1957,
+          "birthplace": "Illinois"
+        }
+      ]
+    },
+    {
+      "record_id": "CENSUS-1970-NY-6234",
+      "census_year": 1970,
+      "state": "New York",
+      "county": "New York",
+      "city": "New York",
+      "enumeration_district": "31-428",
+      "household_head": "Henry J. Becker",
+      "age": 42,
+      "sex": "M",
+      "birth_year": 1928,
+      "birthplace": "Germany",
+      "address": "428 E 82nd St",
+      "occupation": "Carpenter",
+      "household_members": [
+        {
+          "name": "Margaret Becker",
+          "relationship": "Wife",
+          "age": 38,
+          "birth_year": 1932,
+          "birthplace": "New York"
+        },
+        {
+          "name": "David H. Becker",
+          "relationship": "Son",
+          "age": 14,
+          "birth_year": 1956,
+          "birthplace": "New York"
+        },
+        {
+          "name": "Susan M. Becker",
+          "relationship": "Daughter",
+          "age": 11,
+          "birth_year": 1959,
+          "birthplace": "New York"
+        }
+      ]
+    },
+    {
+      "record_id": "CENSUS-1970-CA-7829",
+      "census_year": 1970,
+      "state": "California",
+      "county": "Los Angeles",
+      "city": "Los Angeles",
+      "enumeration_district": "19-234",
+      "household_head": "Wolfgang K. Fischer",
+      "age": 36,
+      "sex": "M",
+      "birth_year": 1933,
+      "birthplace": "Germany",
+      "address": "1842 Vine St",
+      "occupation": "Electrical Engineer",
+      "household_members": [
+        {
+          "name": "Patricia Fischer",
+          "relationship": "Wife",
+          "age": 34,
+          "birth_year": 1936,
+          "birthplace": "California"
+        },
+        {
+          "name": "Michael W. Fischer",
+          "relationship": "Son",
+          "age": 12,
+          "birth_year": 1958,
+          "birthplace": "California"
+        }
+      ]
+    },
+    {
+      "record_id": "CENSUS-1970-IL-9124",
+      "census_year": 1970,
+      "state": "Illinois",
+      "county": "Cook",
+      "city": "Chicago",
+      "enumeration_district": "16-782",
+      "household_head": "Herman Wagner",
+      "age": 44,
+      "sex": "M",
+      "birth_year": 1926,
+      "birthplace": "Germany",
+      "address": "2918 N Lincoln Ave",
+      "occupation": "Tool Maker",
+      "household_members": [
+        {
+          "name": "Erika Wagner",
+          "relationship": "Wife",
+          "age": 40,
+          "birth_year": 1930,
+          "birthplace": "Germany"
+        },
+        {
+          "name": "Peter H. Wagner",
+          "relationship": "Son",
+          "age": 15,
+          "birth_year": 1955,
+          "birthplace": "Illinois"
+        },
+        {
+          "name": "Karen E. Wagner",
+          "relationship": "Daughter",
+          "age": 12,
+          "birth_year": 1958,
+          "birthplace": "Illinois"
+        }
+      ]
+    },
+    {
+      "record_id": "CENSUS-1970-MA-5783",
+      "census_year": 1970,
+      "state": "Massachusetts",
+      "county": "Suffolk",
+      "city": "Boston",
+      "enumeration_district": "25-341",
+      "household_head": "Gerhard E. Zimmermann",
+      "age": 38,
+      "sex": "M",
+      "birth_year": 1931,
+      "birthplace": "Germany",
+      "address": "147 Commonwealth Ave",
+      "occupation": "Research Chemist",
+      "household_members": [
+        {
+          "name": "Elisabeth Zimmermann",
+          "relationship": "Wife",
+          "age": 35,
+          "birth_year": 1935,
+          "birthplace": "Germany"
+        },
+        {
+          "name": "William G. Zimmermann",
+          "relationship": "Son",
+          "age": 9,
+          "birth_year": 1961,
+          "birthplace": "Massachusetts"
+        },
+        {
+          "name": "Christine E. Zimmermann",
+          "relationship": "Daughter",
+          "age": 6,
+          "birth_year": 1964,
+          "birthplace": "Massachusetts"
+        }
+      ]
+    },
+    {
+      "record_id": "CENSUS-1970-PA-6291",
+      "census_year": 1970,
+      "state": "Pennsylvania",
+      "county": "Philadelphia",
+      "city": "Philadelphia",
+      "enumeration_district": "42-187",
+      "household_head": "Kurt W. Hoffmann",
+      "age": 40,
+      "sex": "M",
+      "birth_year": 1929,
+      "birthplace": "Germany",
+      "address": "2341 Chestnut St",
+      "occupation": "Ship Captain",
+      "household_members": [
+        {
+          "name": "Ingrid C. Hoffmann",
+          "relationship": "Wife",
+          "age": 36,
+          "birth_year": 1934,
+          "birthplace": "Germany"
+        },
+        {
+          "name": "Greta M. Hoffmann",
+          "relationship": "Mother",
+          "age": 43,
+          "birth_year": 1927,
+          "birthplace": "Germany"
+        },
+        {
+          "name": "Andrew K. Hoffmann",
+          "relationship": "Son",
+          "age": 8,
+          "birth_year": 1962,
+          "birthplace": "Pennsylvania"
+        }
+      ]
+    }
+  ]
+}
