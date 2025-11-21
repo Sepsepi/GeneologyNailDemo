@@ -100,6 +100,20 @@ async def health_check():
     return {"status": "healthy"}
 
 
+@app.get("/init-db")
+async def initialize_database():
+    """Manually initialize database tables - for troubleshooting"""
+    try:
+        from app.database import Base, engine
+        from app import models  # Import all models
+        from app.models import person, address, relationship, source, processing_job, match_candidate
+
+        Base.metadata.create_all(bind=engine)
+        return {"status": "success", "message": "Database tables created"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}
+
+
 @app.websocket("/ws/progress")
 async def websocket_endpoint(websocket: WebSocket):
     """WebSocket for real-time progress updates"""
