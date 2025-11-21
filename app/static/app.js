@@ -198,6 +198,9 @@ function closePreviewModal() {
 
 // Show Completion Popup
 function showCompletionPopup(leadsCount) {
+    // Remove any existing popup first
+    closeCompletionPopup();
+
     const popup = document.createElement('div');
     popup.className = 'completion-popup';
     popup.innerHTML = `
